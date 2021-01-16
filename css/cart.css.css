@@ -1,0 +1,4 @@
+.ftco-cart,
+.cart .cart-goods:first-child{
+    display: none;
+}
